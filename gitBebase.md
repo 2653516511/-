@@ -9,5 +9,5 @@ git log         // 查看commit的历史
 ```
 -rebase the last few commits in current branch:
 ```js
-git rebase -i HEAD~7    // HEAD~7指要合并的commits的记录的前一个commit的号
+git rebase -i HEAD~7    // HEAD~7指要合并的commits的记录的前7个commit
 ```
