@@ -1,0 +1,9 @@
+{
+    // "include": [],
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "es2015",
+        "noEmitOnError": true,
+        // "lib": []
+    }
+}
