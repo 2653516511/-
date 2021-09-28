@@ -1,0 +1,6 @@
+﻿attrubute,value,description
+charset,"..., bg2312, utf-8",specifies the character encoding for the html document
+name,"application-name, author, description, generator, keywords, viewport",specifies a name for the matadata
+content,text,specifies the value associated with the http-equiv or name attribute
+http-equiv,"content-security-policy, content-type, default-style, refresh",provides an http header for the information/value of the content attribute
+,,

@@ -1,0 +1,7 @@
+﻿attribute,description,Column
+width,设置layout viewport的宽度，正整数，通常为'device-width',
+initial-scale,初始缩放值。数字、小数,[0.0 - 10.0]
+user-scalable,"是否允许缩放。no, yes",默认yes
+minimum-scale,最小缩放值。数字、小数,[0.0 - 10.0]
+maximum-scale,最大缩放值。数字、小数,[0.0 - 10.0]
+height,设置layout viewport的高度。很少用,

@@ -1,0 +1,5 @@
+﻿方法,兼容性,属性,其他
+getElementById,兼容性好，推荐,id,若有多个id相同的元素，只拿第一个
+getElementsByTagName,不兼容ie8及以下版本,标签名,返回所有符合条件的元素的集合
+getElementsByName,不兼容ie8及以下版本,name,返回所有符合条件的元素的集合
+getElementsByClassName,不兼容ie8及以下版本,class,返回所有符合条件的元素的集合

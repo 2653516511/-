@@ -1,0 +1,3 @@
+# pureComponent
+
+shouldcomponentupdate, 父组件中的state没有改变，父组件不重新调render，同样，子组件没有传参数或者参数没变，子组件的render也不重新调
